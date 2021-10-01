@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,1&height=300&section=header&text=Hi!%20I'm%20Eunbin&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Hi!%20I'm%20Eunbin&fontSize=60)
 
 <!--
 **EunBunny2/EunBunny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
