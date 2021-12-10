@@ -1,18 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Hi!%20I'm%20Eunbin&fontSize=60)
-<br/>
 
+<!-- ![KakaoTalk_20211209_205304803](https://user-images.githubusercontent.com/44043468/145497501-883f0813-7cfb-40f9-a750-6acae0699c36.gif) -->
+<img src="https://user-images.githubusercontent.com/44043468/145497501-883f0813-7cfb-40f9-a750-6acae0699c36.gif" width="300" height="300"/>
 
+### "안녕하세요👋 인공지능 연구원 조은빈입니다."
 
-### "안녕하세요👋
- 인공지능 연구원 조은빈입니다."
-
-***의욕적인 목표가 인생을 즐겁게 한다***
+**`의욕적인 목표가 인생을 즐겁게 한다`** 
 
 목표를 향해 나아갈 때 가장 즐거운 연구원
 
 저의 목표는 "**폭 넓게 활용할 수 있는 인공지능 서비스개발**"입니다.
 
-***`AI Researcher`*** 
+
 
 ## About Me
 
@@ -56,10 +54,10 @@
 > > > `Python` `Torch` `Tensorflow` `Anaconda` `Java`
 
 
-<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> -->
  <br/> <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunBunny2&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunBunny2&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunBunny2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
