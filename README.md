@@ -1,14 +1,5 @@
 
-<!-- ![KakaoTalk_20211209_205304803](https://user-images.githubusercontent.com/44043468/145497501-883f0813-7cfb-40f9-a750-6acae0699c36.gif) -->
-<img src="https://user-images.githubusercontent.com/44043468/145497501-883f0813-7cfb-40f9-a750-6acae0699c36.gif" width="300" height="300"/>
 
-### "안녕하세요👋 인공지능 연구원 조은빈입니다."
-
-**`의욕적인 목표가 인생을 즐겁게 한다`** 
-
-목표를 향해 나아갈 때 가장 즐거운 연구원
-
-저의 목표는 "**폭 넓게 활용할 수 있는 인공지능 서비스개발**"입니다.
 
 
 
